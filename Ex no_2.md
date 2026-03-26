@@ -26,8 +26,6 @@ printf("Present");
 return 0;
 }
 Program to check whether the attendance is PRESENT using simple if statement.
-Developed by: Raaga Niharika 
-RegisterNumber: 212222063011
 */
 ```
 
